@@ -10,7 +10,6 @@ public class JokeController {
 
     private JokeService jokeService;
 
-
     public JokeController(JokeService jokeService) {
         this.jokeService = jokeService;
     }
